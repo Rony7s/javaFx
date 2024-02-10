@@ -18,19 +18,19 @@ link <a href="https://www.oracle.com/java/technologies/downloads/#jdk21-windows"
 <li>2.2 Apache NetBeans 20 [java2.2.png]</li>
 link <a href="https://netbeans.apache.org/front/main/download/index.html">Download</a>
 <br>
-<img src="img/Java2.2.png">
+<img src="img/java2.2.png">
 
 <li>2.3 javaFX azul [java2.3.png]</li>
 link <a href="https://www.azul.com/downloads/?version=java-21-lts&os=windows&architecture=x86-64-bit&package=jdk-fx#zulu">Download</a>
 <br>
-<img src="img/Java2.3.png">
+<img src="img/java2.3.png">
 
 <li>2.4 javaFX lib [java2.4.png]</li>
 link <a href="https://gluonhq.com/products/javafx/">Download</a>
 <br>
-<img src="img/Java2.4.png">
+<img src="img/java2.4.png">
 
 <li>2.5 Download Scene Builder [java2.5.png]</li>
 link <a href="https://gluonhq.com/products/scene-builder/">Download</a>
 <br>
-<img src="img/Java2.5.png">
+<img src="img/java2.5.png">
