@@ -13,7 +13,7 @@ Learn javaFx with Rony Ahmmed
 <li> 2.1 JDK (x64 Installer) [java2.1.png] </li>
 link <a href="https://www.oracle.com/java/technologies/downloads/#jdk21-windows">Download</a>
 <br>
-<img src="img/Java2.1.png">
+<img src="img/java2.1.png">
 
 <li>2.2 Apache NetBeans 20 [java2.2.png]</li>
 link <a href="https://netbeans.apache.org/front/main/download/index.html">Download</a>
